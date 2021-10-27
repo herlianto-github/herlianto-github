@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @herlianto-dev
+- 👋 Hi, I’m @herlianto-github
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on any mobile app development forum/group
