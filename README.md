@@ -7,7 +7,7 @@
 I am Backend Engineer Enthusiast. Currently learning about Golang Backend Engineer Languange. the key learning topics I studied are as follows: Algorithm, Data Structure, Layered Architecture, Time Complexity, Clean Code, System Design, Wireframe, ORM, Git, Git Workflow, Trunk Base Development, Agile, Scrum, JWT Token, Middleware, RESTful API, Unit Testing, Payment Gateway (Midtrans, Xendit), Docker, Kubernetes (Okteto), Cloud Services Providers (AWS, Alibaba Cloud, Google Cloud Platform)
 
 ### ⚡️ Skills and Interests
-`Software Development`, `Golang`, `Flutter`, `Scrum`, `Kubernetes`
+`Software Development`, `Golang`, `Flutter`, `Scrum`, `Kubernetes`, `Node.JS`
 
 <!---
 herlianto-dev/herlianto-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
